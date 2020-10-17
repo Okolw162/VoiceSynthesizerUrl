@@ -7,7 +7,7 @@ There are two variations of the code:<br>
 
 Installation:<br>
 
-| Run these 3 commands in the terminal:<br><br>
+| Run these 3 commands in the terminal:<br>
 git clone https://github.com/Okolw162/VoiceSynthesizerUrl.git<br>
 cd VoiceSynthesizerUrl<br>
 pip3 install -r requirements.txt<br>
