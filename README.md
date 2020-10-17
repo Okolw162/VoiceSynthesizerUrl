@@ -14,5 +14,3 @@ pip3 install -r requirements.txt
 
 | Download python3:
 https://www.python.org/downloads/
-
-| 
