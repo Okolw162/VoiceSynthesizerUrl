@@ -14,3 +14,6 @@ pip3 install -r requirements.txt<br>
 
 | Download python3:<br>
 https://www.python.org/downloads/<br>
+
+Run python code:
+python3 main.py
