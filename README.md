@@ -2,7 +2,7 @@
 This code is designed for speech-to-text recognition via a url link
 
 There are two variations of the code:
-1 | Speech recognition by link.
+1 | Speech recognition by link. <br>
 2 | Speech recognition from a local audio file format: ogg and waw. (TODO)
 
 Installation:
