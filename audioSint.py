@@ -21,7 +21,7 @@ class VkSint:
             return "Something went wrong"
 
         r = sr.Recognizer()
-        harvard = sr.AudioFile('/home/utka/Python/VK/group bot/ogg/output.wav')
+        harvard = sr.AudioFile(dest_filename)
         with harvard as source:
             r.adjust_for_ambient_noise(source, duration=0.5)
             audio = r.record(source)
